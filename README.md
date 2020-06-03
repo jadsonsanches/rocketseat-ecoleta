@@ -22,7 +22,7 @@ Aplicação para conectar empresas e entidades de coleta de resíduos orgânicos
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jadsonsanches/rocketseat-ecoleta">
   </a>
 
-  <a href="https://github.com/leon-carvalho/Ecoleta/stargazers">
+  <a href="https://github.com/jadsonsanches/rocketseat-ecoleta/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/jadsonsanches/rocketseat-ecoleta?style=social">
   </a>
 </p>
